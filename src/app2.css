@@ -1,0 +1,19 @@
+#app2 .tableHead >th {
+  border:1px solid black;
+  width: 25vw;
+}
+#app2 .tableHead > th {
+  border:1px solid black;
+  width: 25vw;
+}
+#app2 .tableContent > td {
+  display: none;
+
+}
+#app2 .tableContent .active{
+  display: block;
+}
+#app2 .tableHead .selected{
+  background: darkorange;
+  color: white;
+}
